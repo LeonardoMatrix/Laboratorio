@@ -1,0 +1,16 @@
+C:\Users\aluno\source\repos\Laboratorio\ServicoWCF\obj\Debug\ServicoWCF.csprojResolveAssemblyReference.cache
+C:\Users\aluno\source\repos\Laboratorio\ServicoWCF\obj\Debug\ServicoWCF.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Laboratorio\ServicoWCF\bin\Debug\ServicoWCF.exe.config
+C:\Users\aluno\source\repos\Laboratorio\ServicoWCF\bin\Debug\ServicoWCF.exe
+C:\Users\aluno\source\repos\Laboratorio\ServicoWCF\bin\Debug\ServicoWCF.pdb
+C:\Users\aluno\source\repos\Laboratorio\ServicoWCF\bin\Debug\DadosEntityFramework.dll
+C:\Users\aluno\source\repos\Laboratorio\ServicoWCF\bin\Debug\ModeloDados.dll
+C:\Users\aluno\source\repos\Laboratorio\ServicoWCF\bin\Debug\EntityFramework.dll
+C:\Users\aluno\source\repos\Laboratorio\ServicoWCF\bin\Debug\DadosEntityFramework.pdb
+C:\Users\aluno\source\repos\Laboratorio\ServicoWCF\bin\Debug\ModeloDados.pdb
+C:\Users\aluno\source\repos\Laboratorio\ServicoWCF\bin\Debug\ModeloDados.dll.config
+C:\Users\aluno\source\repos\Laboratorio\ServicoWCF\bin\Debug\EntityFramework.xml
+C:\Users\aluno\source\repos\Laboratorio\ServicoWCF\obj\Debug\ServicoWCF.exe
+C:\Users\aluno\source\repos\Laboratorio\ServicoWCF\obj\Debug\ServicoWCF.pdb
+C:\Users\aluno\source\repos\Laboratorio\ServicoWCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aluno\source\repos\Laboratorio\ServicoWCF\bin\Debug\EntityFramework.SqlServer.xml

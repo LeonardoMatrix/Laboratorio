@@ -1,0 +1,13 @@
+C:\Users\aluno\source\repos\Laboratorio\ModeloDados\bin\Debug\ModeloDados.dll.config
+C:\Users\aluno\source\repos\Laboratorio\ModeloDados\bin\Debug\ModeloDados.dll
+C:\Users\aluno\source\repos\Laboratorio\ModeloDados\bin\Debug\ModeloDados.pdb
+C:\Users\aluno\source\repos\Laboratorio\ModeloDados\bin\Debug\DadosEntityFramework.dll
+C:\Users\aluno\source\repos\Laboratorio\ModeloDados\bin\Debug\EntityFramework.dll
+C:\Users\aluno\source\repos\Laboratorio\ModeloDados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aluno\source\repos\Laboratorio\ModeloDados\bin\Debug\DadosEntityFramework.pdb
+C:\Users\aluno\source\repos\Laboratorio\ModeloDados\bin\Debug\EntityFramework.xml
+C:\Users\aluno\source\repos\Laboratorio\ModeloDados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aluno\source\repos\Laboratorio\ModeloDados\obj\Debug\ModeloDados.csprojResolveAssemblyReference.cache
+C:\Users\aluno\source\repos\Laboratorio\ModeloDados\obj\Debug\ModeloDados.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Laboratorio\ModeloDados\obj\Debug\ModeloDados.dll
+C:\Users\aluno\source\repos\Laboratorio\ModeloDados\obj\Debug\ModeloDados.pdb
